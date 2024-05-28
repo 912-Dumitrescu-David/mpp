@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": 1,
+    "model": "Pilot Sport 4",
+    "price": 150,
+    "size": "225/45R17",
+    "quantity": 50,
+    "description": "High-performance summer tire"
+  },
+  {
+    "id": 2,
+    "brand": 2,
+    "model": "Ecopia EP422 Plus",
+    "price": 120,
+    "size": "205/55R16",
+    "quantity": 40,
+    "description": "Fuel-efficient all-season tire"
+  },
+  {
+    "id": 3,
+    "brand": 3,
+    "model": "Assurance MaxLife",
+    "price": 130,
+    "size": "215/60R16",
+    "quantity": 30,
+    "description": "Long-lasting all-season tire"
+  },
+  {
+    "id": 4,
+    "brand": 4,
+    "model": "ExtremeContact DWS06",
+    "price": 170,
+    "size": "235/45R18",
+    "quantity": 25,
+    "description": "Ultra-high performance all-season tire"
+  },
+  {
+    "id": 5,
+    "brand": 5,
+    "model": "P Zero",
+    "price": 180,
+    "size": "245/40R18",
+    "quantity": 20,
+    "description": "Max performance summer tire"
+  },
+  {
+    "id": 6,
+    "brand": 1,
+    "model": "Avid Ascend GT",
+    "price": 110,
+    "size": 195,
+    "quantity": 35,
+    "description": "Touring all-season tire"
+  },
+  {
+    "id": 7,
+    "brand": 8,
+    "model": "ADVAN Sport V105",
+    "price": 460,
+    "size": "200/37R16",
+    "quantity": 93,
+    "description": "Aut dolorum tempore."
+  },
+  {
+    "id": 8,
+    "brand": 3,
+    "model": "P Zero",
+    "price": 171,
+    "size": "190/42R19",
+    "quantity": 6,
+    "description": "Quasi qui itaque aut sapiente qui."
+  },
+  {
+    "id": 9,
+    "brand": 10,
+    "model": "PremiumContact 6",
+    "price": 155,
+    "size": "230/45R19",
+    "quantity": 73,
+    "description": "Delectus consequatur quibusdam voluptatem occaecati ad."
+  },
+  {
+    "id": 10,
+    "brand": 9,
+    "model": "Eagle F1 Asymmetric 5",
+    "price": 384,
+    "size": "220/41R19",
+    "quantity": 32,
+    "description": "Animi at laboriosam sint debitis impedit doloribus quo."
+  }
+]
