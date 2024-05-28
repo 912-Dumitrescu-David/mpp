@@ -1,10 +1,10 @@
 const fs = require("fs");
 const path = require("path");
-const Entity = require("server/Models/TireModel.js");
+const Entity = require("../Models/TireModel.js");
 const { Console } = require("console");
 var casual = require("casual");
-var manufacturers = require("server/Models/ManufacturerModel.js");
-var connection = require("server/connection.js");
+var manufacturers = require("../Models/ManufacturerModel.js");
+var connection = require("../connection.js");
 
 var tires = [];
 var id = 0;
