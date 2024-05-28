@@ -20,7 +20,8 @@
     "faker": "^6.6.6",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.7",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.7.5",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
