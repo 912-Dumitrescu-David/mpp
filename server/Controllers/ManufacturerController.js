@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
-const Manufacturer = require("C:/Users/dumit/Desktop/facultate/An 2/Sem 2/MPP/react-project/server/Models/ManufacturerModel.js");
+const Manufacturer = require("server\Models\ManufacturerModel.js");
 const { Console } = require("console");
 var casual = require("casual");
-var connection = require("C:/Users/dumit/Desktop/facultate/An 2/Sem 2/MPP/react-project/server/connection.js");
+var connection = require("server\connection.js");
 
 
 var manufacturers = [];

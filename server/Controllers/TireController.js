@@ -1,10 +1,10 @@
 const fs = require("fs");
 const path = require("path");
-const Entity = require("C:/Users/dumit/Desktop/facultate/An 2/Sem 2/MPP/react-project/server/Models/TireModel.js");
+const Entity = require("server\Models\TireModel.js");
 const { Console } = require("console");
 var casual = require("casual");
-var manufacturers = require("C:/Users/dumit/Desktop/facultate/An 2/Sem 2/MPP/react-project/server/JSONData/ManufacturerData.json");
-var connection = require("C:/Users/dumit/Desktop/facultate/An 2/Sem 2/MPP/react-project/server/connection.js");
+var manufacturers = require("server\Models\ManufacturerModel.js");
+var connection = require("server\connection.js");
 
 var tires = [];
 var id = 0;
